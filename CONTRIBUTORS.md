@@ -2431,4 +2431,4 @@ Noida
 #### Name: [Vamsi Krishna](https://github.com/V-V-K)
 - Place: Delhi, India
 - Bio: Python Learner
-- Github: [Vamsi Krishna](https://github.com/V-V-K)
+- Github: [V-V-K](https://github.com/V-V-K)
