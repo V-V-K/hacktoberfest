@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vamsi Krishna](https://github.com/V-V-K)
+- Place: Delhi, India
+- Bio: Python Learner
+- Github: [Vamsi Krishna](https://github.com/V-V-K)
